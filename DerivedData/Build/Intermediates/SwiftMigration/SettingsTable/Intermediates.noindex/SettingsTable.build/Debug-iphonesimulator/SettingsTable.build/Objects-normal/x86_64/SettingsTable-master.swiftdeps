@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "5ba5e9e36effd3e9809b3217d008178d"
+build_time: [1563478924, 729440000]
+inputs:
+  "/Users/holgerhinzberg/Documents/Eigene Dokumente/Development/iOS/SettingsTable/SettingsTable/TableSettingsSwitch.swift": [1563364456, 0]
+  "/Users/holgerhinzberg/Documents/Eigene Dokumente/Development/iOS/SettingsTable/SettingsTable/TableViewCtrl.swift": [1563366436, 0]
+  "/Users/holgerhinzberg/Documents/Eigene Dokumente/Development/iOS/SettingsTable/SettingsTable/AppDelegate.swift": [1563364775, 0]
+  "/Users/holgerhinzberg/Documents/Eigene Dokumente/Development/iOS/SettingsTable/SettingsTable/TableSettingsSection.swift": [1563280698, 0]
+  "/Users/holgerhinzberg/Documents/Eigene Dokumente/Development/iOS/SettingsTable/SettingsTable/TableSettingsRepository.swift": [1563280857, 0]
+  "/Users/holgerhinzberg/Documents/Eigene Dokumente/Development/iOS/SettingsTable/SettingsTable/TableSettingsItem.swift": [1563364711, 0]

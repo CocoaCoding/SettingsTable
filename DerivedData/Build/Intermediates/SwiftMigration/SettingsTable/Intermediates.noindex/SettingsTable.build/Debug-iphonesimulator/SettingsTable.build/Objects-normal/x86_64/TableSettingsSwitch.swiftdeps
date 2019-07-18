@@ -1,0 +1,410 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "TableSettingsSwitch"
+provides-nominal:
+- "13SettingsTable0bA6SwitchC"
+provides-member:
+- ["13SettingsTable0bA6SwitchC", ""]
+provides-dynamic-lookup:
+- "switchValueChanged"
+depends-top-level:
+- "AssignmentPrecedence"
+- "CGRect"
+- !private "FloatLiteralType"
+- !private "IntegerLiteralType"
+- "NSCoder"
+- "TableSettingsItem"
+- "TableSettingsSwitch"
+- "UISwitch"
+- !private "UnicodeScalarType"
+- !private "UserDefaults"
+- !private "fatalError"
+- !private "print"
+depends-member:
+- !private ["So15CALayerDelegateP", "UserDefaults"]
+- ["So15CALayerDelegateP", ""]
+- !private ["So15CALayerDelegateP", "addTarget"]
+- !private ["So15CALayerDelegateP", "fatalError"]
+- !private ["So15CALayerDelegateP", "init"]
+- !private ["So15CALayerDelegateP", "isOn"]
+- !private ["So15CALayerDelegateP", "print"]
+- !private ["So15CALayerDelegateP", "settingsItem"]
+- !private ["So15CALayerDelegateP", "switchValueChanged"]
+- !private ["s7CVarArgP", "UserDefaults"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "addTarget"]
+- !private ["s7CVarArgP", "bool"]
+- !private ["s7CVarArgP", "fatalError"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "isOn"]
+- !private ["s7CVarArgP", "print"]
+- !private ["s7CVarArgP", "set"]
+- !private ["s7CVarArgP", "settingsItem"]
+- !private ["s7CVarArgP", "standard"]
+- !private ["s7CVarArgP", "switchValueChanged"]
+- !private ["s28CustomDebugStringConvertibleP", "UserDefaults"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "addTarget"]
+- !private ["s28CustomDebugStringConvertibleP", "bool"]
+- !private ["s28CustomDebugStringConvertibleP", "fatalError"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "isOn"]
+- !private ["s28CustomDebugStringConvertibleP", "print"]
+- !private ["s28CustomDebugStringConvertibleP", "set"]
+- !private ["s28CustomDebugStringConvertibleP", "settingsItem"]
+- !private ["s28CustomDebugStringConvertibleP", "standard"]
+- !private ["s28CustomDebugStringConvertibleP", "switchValueChanged"]
+- !private ["s23CustomStringConvertibleP", "UserDefaults"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "addTarget"]
+- !private ["s23CustomStringConvertibleP", "appendInterpolation"]
+- !private ["s23CustomStringConvertibleP", "appendLiteral"]
+- !private ["s23CustomStringConvertibleP", "bool"]
+- !private ["s23CustomStringConvertibleP", "fatalError"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "isOn"]
+- !private ["s23CustomStringConvertibleP", "print"]
+- !private ["s23CustomStringConvertibleP", "set"]
+- !private ["s23CustomStringConvertibleP", "settingsItem"]
+- !private ["s23CustomStringConvertibleP", "standard"]
+- !private ["s23CustomStringConvertibleP", "switchValueChanged"]
+- !private ["s26DefaultStringInterpolationV", "appendInterpolation"]
+- !private ["s26DefaultStringInterpolationV", "appendLiteral"]
+- !private ["SQ", "UserDefaults"]
+- ["SQ", ""]
+- !private ["SQ", "addTarget"]
+- !private ["SQ", "bool"]
+- !private ["SQ", "fatalError"]
+- !private ["SQ", "init"]
+- !private ["SQ", "isOn"]
+- !private ["SQ", "print"]
+- !private ["SQ", "set"]
+- !private ["SQ", "settingsItem"]
+- !private ["SQ", "standard"]
+- !private ["SQ", "switchValueChanged"]
+- !private ["SQ", "valueChanged"]
+- !private ["So15UIControlEventsV", "valueChanged"]
+- !private ["s25ExpressibleByArrayLiteralP", "valueChanged"]
+- !private ["SH", "UserDefaults"]
+- ["SH", ""]
+- !private ["SH", "addTarget"]
+- !private ["SH", "bool"]
+- !private ["SH", "fatalError"]
+- !private ["SH", "init"]
+- !private ["SH", "isOn"]
+- !private ["SH", "print"]
+- !private ["SH", "set"]
+- !private ["SH", "settingsItem"]
+- !private ["SH", "standard"]
+- !private ["SH", "switchValueChanged"]
+- !private ["So8NSCodingP", "UserDefaults"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "addTarget"]
+- !private ["So8NSCodingP", "fatalError"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "isOn"]
+- !private ["So8NSCodingP", "print"]
+- !private ["So8NSCodingP", "settingsItem"]
+- !private ["So8NSCodingP", "switchValueChanged"]
+- ["So8NSObjectC", "CGRect"]
+- ["So8NSObjectC", "NSCoder"]
+- ["So8NSObjectC", "TableSettingsItem"]
+- ["So8NSObjectC", "TableSettingsSwitch"]
+- !private ["So8NSObjectC", "UserDefaults"]
+- !private ["So8NSObjectC", "addTarget"]
+- !private ["So8NSObjectC", "bool"]
+- !private ["So8NSObjectC", "fatalError"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "isOn"]
+- !private ["So8NSObjectC", "print"]
+- !private ["So8NSObjectC", "set"]
+- ["So8NSObjectC", "setTableSettingsItem"]
+- ["So8NSObjectC", "settingsItem"]
+- !private ["So8NSObjectC", "standard"]
+- ["So8NSObjectC", "switchValueChanged"]
+- !private ["So8NSObjectP", "UserDefaults"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "addTarget"]
+- !private ["So8NSObjectP", "bool"]
+- !private ["So8NSObjectP", "fatalError"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "isOn"]
+- !private ["So8NSObjectP", "print"]
+- !private ["So8NSObjectP", "set"]
+- !private ["So8NSObjectP", "settingsItem"]
+- !private ["So8NSObjectP", "standard"]
+- !private ["So8NSObjectP", "switchValueChanged"]
+- !private ["s9OptionSetP", "valueChanged"]
+- !private ["SY", "valueChanged"]
+- !private ["s10SetAlgebraP", "valueChanged"]
+- !private ["s27StringInterpolationProtocolP", "appendInterpolation"]
+- !private ["s27StringInterpolationProtocolP", "appendLiteral"]
+- !private ["13SettingsTable0bA4ItemC", "identifier"]
+- !private ["13SettingsTable0bA4ItemC", "title"]
+- ["13SettingsTable0bA6SwitchC", "CGRect"]
+- ["13SettingsTable0bA6SwitchC", "NSCoder"]
+- ["13SettingsTable0bA6SwitchC", "TableSettingsItem"]
+- ["13SettingsTable0bA6SwitchC", "TableSettingsSwitch"]
+- !private ["13SettingsTable0bA6SwitchC", "UserDefaults"]
+- !private ["13SettingsTable0bA6SwitchC", "addTarget"]
+- ["13SettingsTable0bA6SwitchC", "deinit"]
+- !private ["13SettingsTable0bA6SwitchC", "fatalError"]
+- ["13SettingsTable0bA6SwitchC", "init"]
+- !private ["13SettingsTable0bA6SwitchC", "isOn"]
+- !private ["13SettingsTable0bA6SwitchC", "print"]
+- ["13SettingsTable0bA6SwitchC", "setTableSettingsItem"]
+- !private ["13SettingsTable0bA6SwitchC", "settingsItem"]
+- ["13SettingsTable0bA6SwitchC", "switchValueChanged"]
+- !private ["s16TextOutputStreamP", "appendInterpolation"]
+- !private ["s16TextOutputStreamP", "appendLiteral"]
+- !private ["So29UIAccessibilityIdentificationP", "UserDefaults"]
+- ["So29UIAccessibilityIdentificationP", ""]
+- !private ["So29UIAccessibilityIdentificationP", "addTarget"]
+- !private ["So29UIAccessibilityIdentificationP", "fatalError"]
+- !private ["So29UIAccessibilityIdentificationP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "isOn"]
+- !private ["So29UIAccessibilityIdentificationP", "print"]
+- !private ["So29UIAccessibilityIdentificationP", "settingsItem"]
+- !private ["So29UIAccessibilityIdentificationP", "switchValueChanged"]
+- !private ["So12UIAppearanceP", "UserDefaults"]
+- ["So12UIAppearanceP", ""]
+- !private ["So12UIAppearanceP", "addTarget"]
+- !private ["So12UIAppearanceP", "fatalError"]
+- !private ["So12UIAppearanceP", "init"]
+- !private ["So12UIAppearanceP", "isOn"]
+- !private ["So12UIAppearanceP", "print"]
+- !private ["So12UIAppearanceP", "settingsItem"]
+- !private ["So12UIAppearanceP", "switchValueChanged"]
+- !private ["So21UIAppearanceContainerP", "UserDefaults"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So21UIAppearanceContainerP", "addTarget"]
+- !private ["So21UIAppearanceContainerP", "fatalError"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "isOn"]
+- !private ["So21UIAppearanceContainerP", "print"]
+- !private ["So21UIAppearanceContainerP", "settingsItem"]
+- !private ["So21UIAppearanceContainerP", "switchValueChanged"]
+- ["So9UIControlC", "CGRect"]
+- ["So9UIControlC", "NSCoder"]
+- ["So9UIControlC", "TableSettingsItem"]
+- ["So9UIControlC", "TableSettingsSwitch"]
+- !private ["So9UIControlC", "UserDefaults"]
+- !private ["So9UIControlC", "addTarget"]
+- !private ["So9UIControlC", "fatalError"]
+- ["So9UIControlC", "init"]
+- !private ["So9UIControlC", "isOn"]
+- !private ["So9UIControlC", "print"]
+- ["So9UIControlC", "setTableSettingsItem"]
+- ["So9UIControlC", "settingsItem"]
+- ["So9UIControlC", "switchValueChanged"]
+- !private ["So17UICoordinateSpaceP", "UserDefaults"]
+- ["So17UICoordinateSpaceP", ""]
+- !private ["So17UICoordinateSpaceP", "addTarget"]
+- !private ["So17UICoordinateSpaceP", "fatalError"]
+- !private ["So17UICoordinateSpaceP", "init"]
+- !private ["So17UICoordinateSpaceP", "isOn"]
+- !private ["So17UICoordinateSpaceP", "print"]
+- !private ["So17UICoordinateSpaceP", "settingsItem"]
+- !private ["So17UICoordinateSpaceP", "switchValueChanged"]
+- !private ["So13UIDynamicItemP", "UserDefaults"]
+- ["So13UIDynamicItemP", ""]
+- !private ["So13UIDynamicItemP", "addTarget"]
+- !private ["So13UIDynamicItemP", "fatalError"]
+- !private ["So13UIDynamicItemP", "init"]
+- !private ["So13UIDynamicItemP", "isOn"]
+- !private ["So13UIDynamicItemP", "print"]
+- !private ["So13UIDynamicItemP", "settingsItem"]
+- !private ["So13UIDynamicItemP", "switchValueChanged"]
+- !private ["So18UIFocusEnvironmentP", "UserDefaults"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "addTarget"]
+- !private ["So18UIFocusEnvironmentP", "fatalError"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "isOn"]
+- !private ["So18UIFocusEnvironmentP", "print"]
+- !private ["So18UIFocusEnvironmentP", "settingsItem"]
+- !private ["So18UIFocusEnvironmentP", "switchValueChanged"]
+- !private ["So11UIFocusItemP", "UserDefaults"]
+- ["So11UIFocusItemP", ""]
+- !private ["So11UIFocusItemP", "addTarget"]
+- !private ["So11UIFocusItemP", "fatalError"]
+- !private ["So11UIFocusItemP", "init"]
+- !private ["So11UIFocusItemP", "isOn"]
+- !private ["So11UIFocusItemP", "print"]
+- !private ["So11UIFocusItemP", "settingsItem"]
+- !private ["So11UIFocusItemP", "switchValueChanged"]
+- !private ["So20UIFocusItemContainerP", "UserDefaults"]
+- ["So20UIFocusItemContainerP", ""]
+- !private ["So20UIFocusItemContainerP", "addTarget"]
+- !private ["So20UIFocusItemContainerP", "fatalError"]
+- !private ["So20UIFocusItemContainerP", "init"]
+- !private ["So20UIFocusItemContainerP", "isOn"]
+- !private ["So20UIFocusItemContainerP", "print"]
+- !private ["So20UIFocusItemContainerP", "settingsItem"]
+- !private ["So20UIFocusItemContainerP", "switchValueChanged"]
+- !private ["So30UIPasteConfigurationSupportingP", "UserDefaults"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "addTarget"]
+- !private ["So30UIPasteConfigurationSupportingP", "fatalError"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "isOn"]
+- !private ["So30UIPasteConfigurationSupportingP", "print"]
+- !private ["So30UIPasteConfigurationSupportingP", "settingsItem"]
+- !private ["So30UIPasteConfigurationSupportingP", "switchValueChanged"]
+- ["So11UIResponderC", "CGRect"]
+- ["So11UIResponderC", "NSCoder"]
+- ["So11UIResponderC", "TableSettingsItem"]
+- ["So11UIResponderC", "TableSettingsSwitch"]
+- !private ["So11UIResponderC", "UserDefaults"]
+- !private ["So11UIResponderC", "addTarget"]
+- !private ["So11UIResponderC", "fatalError"]
+- ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "isOn"]
+- !private ["So11UIResponderC", "print"]
+- ["So11UIResponderC", "setTableSettingsItem"]
+- ["So11UIResponderC", "settingsItem"]
+- ["So11UIResponderC", "switchValueChanged"]
+- !private ["So30UIResponderStandardEditActionsP", "UserDefaults"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "addTarget"]
+- !private ["So30UIResponderStandardEditActionsP", "fatalError"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "isOn"]
+- !private ["So30UIResponderStandardEditActionsP", "print"]
+- !private ["So30UIResponderStandardEditActionsP", "settingsItem"]
+- !private ["So30UIResponderStandardEditActionsP", "switchValueChanged"]
+- ["So8UISwitchC", "CGRect"]
+- ["So8UISwitchC", "NSCoder"]
+- ["So8UISwitchC", "TableSettingsItem"]
+- ["So8UISwitchC", "TableSettingsSwitch"]
+- !private ["So8UISwitchC", "UserDefaults"]
+- ["So8UISwitchC", ""]
+- !private ["So8UISwitchC", "addTarget"]
+- !private ["So8UISwitchC", "fatalError"]
+- ["So8UISwitchC", "init"]
+- !private ["So8UISwitchC", "isOn"]
+- !private ["So8UISwitchC", "print"]
+- ["So8UISwitchC", "setTableSettingsItem"]
+- ["So8UISwitchC", "settingsItem"]
+- ["So8UISwitchC", "switchValueChanged"]
+- !private ["So18UITraitEnvironmentP", "UserDefaults"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So18UITraitEnvironmentP", "addTarget"]
+- !private ["So18UITraitEnvironmentP", "fatalError"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "isOn"]
+- !private ["So18UITraitEnvironmentP", "print"]
+- !private ["So18UITraitEnvironmentP", "settingsItem"]
+- !private ["So18UITraitEnvironmentP", "switchValueChanged"]
+- !private ["So23UIUserActivityRestoringP", "UserDefaults"]
+- ["So23UIUserActivityRestoringP", ""]
+- !private ["So23UIUserActivityRestoringP", "addTarget"]
+- !private ["So23UIUserActivityRestoringP", "fatalError"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "isOn"]
+- !private ["So23UIUserActivityRestoringP", "print"]
+- !private ["So23UIUserActivityRestoringP", "settingsItem"]
+- !private ["So23UIUserActivityRestoringP", "switchValueChanged"]
+- ["So6UIViewC", "CGRect"]
+- ["So6UIViewC", "NSCoder"]
+- ["So6UIViewC", "TableSettingsItem"]
+- ["So6UIViewC", "TableSettingsSwitch"]
+- !private ["So6UIViewC", "UserDefaults"]
+- !private ["So6UIViewC", "addTarget"]
+- !private ["So6UIViewC", "fatalError"]
+- ["So6UIViewC", "init"]
+- !private ["So6UIViewC", "isOn"]
+- !private ["So6UIViewC", "print"]
+- ["So6UIViewC", "setTableSettingsItem"]
+- ["So6UIViewC", "settingsItem"]
+- ["So6UIViewC", "switchValueChanged"]
+- !private ["So14NSUserDefaultsC", "bool"]
+- !private ["So14NSUserDefaultsC", "set"]
+- !private ["So14NSUserDefaultsC", "standard"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UserDefaults"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "addTarget"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "bool"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "fatalError"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "isOn"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "print"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "set"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "settingsItem"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "standard"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "switchValueChanged"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "UserDefaults"]
+- ["s38__DefaultCustomPlaygroundQuickLookableP", ""]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "addTarget"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "fatalError"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "init"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "isOn"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "print"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "settingsItem"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "switchValueChanged"]
+depends-nominal:
+- "So15CALayerDelegateP"
+- "s7CVarArgP"
+- "s28CustomDebugStringConvertibleP"
+- "s23CustomStringConvertibleP"
+- !private "s26DefaultStringInterpolationV"
+- "SQ"
+- !private "So15UIControlEventsV"
+- !private "s25ExpressibleByArrayLiteralP"
+- "SH"
+- "So8NSCodingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "s9OptionSetP"
+- !private "SY"
+- !private "s10SetAlgebraP"
+- !private "s27StringInterpolationProtocolP"
+- !private "13SettingsTable0bA4ItemC"
+- "13SettingsTable0bA6SwitchC"
+- !private "s16TextOutputStreamP"
+- "So29UIAccessibilityIdentificationP"
+- "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So9UIControlC"
+- "So17UICoordinateSpaceP"
+- "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- "So11UIFocusItemP"
+- "So20UIFocusItemContainerP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So8UISwitchC"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- "So6UIViewC"
+- !private "So14NSUserDefaultsC"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "s38__DefaultCustomPlaygroundQuickLookableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "bc555731ec67fa4069f7760b317f0cff"
