@@ -16,7 +16,6 @@
 		6949CAF420F7914200501E45 /* TableSettingsSection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6949CAF320F7914200501E45 /* TableSettingsSection.swift */; };
 		6949CAF620F7915700501E45 /* TableSettingsItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6949CAF520F7915700501E45 /* TableSettingsItem.swift */; };
 		6988AB9220F8B5EB00C0AC06 /* TableSettingsSwitch.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6988AB9120F8B5EB00C0AC06 /* TableSettingsSwitch.swift */; };
-		69B020B221022F6E00662B35 /* Changelog.txt in Resources */ = {isa = PBXBuildFile; fileRef = 69B020B121022F6E00662B35 /* Changelog.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,7 +31,6 @@
 		6949CAF320F7914200501E45 /* TableSettingsSection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableSettingsSection.swift; sourceTree = "<group>"; };
 		6949CAF520F7915700501E45 /* TableSettingsItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableSettingsItem.swift; sourceTree = "<group>"; };
 		6988AB9120F8B5EB00C0AC06 /* TableSettingsSwitch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableSettingsSwitch.swift; sourceTree = "<group>"; };
-		69B020B121022F6E00662B35 /* Changelog.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = Changelog.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,7 +64,6 @@
 		6949CADE20F790F800501E45 /* SettingsTable */ = {
 			isa = PBXGroup;
 			children = (
-				69B020B121022F6E00662B35 /* Changelog.txt */,
 				6949CADF20F790F800501E45 /* AppDelegate.swift */,
 				6949CAE120F790F800501E45 /* TableViewCtrl.swift */,
 				6949CAE320F790F800501E45 /* Main.storyboard */,
@@ -143,7 +140,6 @@
 				6949CAEA20F790FA00501E45 /* LaunchScreen.storyboard in Resources */,
 				6949CAE720F790FA00501E45 /* Assets.xcassets in Resources */,
 				6949CAE520F790F800501E45 /* Main.storyboard in Resources */,
-				69B020B221022F6E00662B35 /* Changelog.txt in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
