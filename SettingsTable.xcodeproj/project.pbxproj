@@ -20,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3FEE733B22E1034000DE00FB /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		6949CADC20F790F800501E45 /* SettingsTable.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SettingsTable.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6949CADF20F790F800501E45 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		6949CAE120F790F800501E45 /* TableViewCtrl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCtrl.swift; sourceTree = "<group>"; };
@@ -48,6 +49,7 @@
 		6949CAD320F790F800501E45 = {
 			isa = PBXGroup;
 			children = (
+				3FEE733B22E1034000DE00FB /* README.md */,
 				6949CADE20F790F800501E45 /* SettingsTable */,
 				6949CADD20F790F800501E45 /* Products */,
 			);
@@ -302,7 +304,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 4GN6W3XJT2;
+				DEVELOPMENT_TEAM = Q4JYUA6UF4;
 				INFOPLIST_FILE = SettingsTable/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -320,7 +322,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 4GN6W3XJT2;
+				DEVELOPMENT_TEAM = Q4JYUA6UF4;
 				INFOPLIST_FILE = SettingsTable/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",

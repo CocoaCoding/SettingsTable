@@ -2,9 +2,7 @@
 //  AppDelegate.swift
 //  SettingsTable
 //
-//  Created by Max Schneider on 12.07.18.
 //  Copyright © 2018 Holger Hinzberg. All rights reserved.
-//
 
 import UIKit
 
